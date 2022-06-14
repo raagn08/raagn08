@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raagn08&label=Profile%20views&color=62d8ff&style=flat" alt="raagn08" /> </p>
 
-<p align="center">• Working as Data Analytics Developer at <a href="https://celsius.network/">Celsius</a><br>
+<p align="center">• Working as Staff Software Engineer at <a href="https://www.entri.com/">Entri</a><br>
 • I'm probably drinking coffee right now and reading a data science article.<br>
 • Always looking to improve and learn more in this data centric world.</p>
   
