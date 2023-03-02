@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Raag! :coffee:</h1>
-<h3 align="center">A developer and an Avid Coffee Drinker!</h3>
+<h3 align="center">Avid Coffee Drinker and a developer!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raagn08&label=Profile%20views&color=62d8ff&style=flat" alt="raagn08" /> </p>
 
-<p align="center">• Working as Lead Backend Engineer at <a href="https://www.entri.com/">Entri</a><br>
+<p align="center">• Working as Data Engineer @ <a href="https://bitwave.io">Bitwave</a><br>
 • I'm probably either drinking coffee, learning more about Crypto or doom scrolling Twitter.<br>
 • Always looking to improve, learn and build new things!</p>
   
